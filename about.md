@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+This blog is a collection of my interests. These include but are not limited to: philosophy, the natural and social sciences, rationality, MMA, and music. It
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lchoochoy@gmail.com](mailto:lchoochoy@gmail.com)
