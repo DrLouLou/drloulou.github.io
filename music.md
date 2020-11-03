@@ -6,77 +6,77 @@ permalink: /music/
 
 ### 2020.11
 * Shigeto:
-  _No Better Time Than Now (2013)_
-  _A Piece of the Geto (2017)_
-  _The New Monday (2017)_
+  - _No Better Time Than Now (2013)_
+  - _A Piece of the Geto (2017)_
+  - _The New Monday (2017)_
 
 * Karriem Riggins:
-  - Alone Together (2012)
+  - _Alone Together (2012)_
 
 * Mndsgn:
-  - Yawn Zen (2014)
+  - _Yawn Zen (2014)_
   
 * Illingsworth, DJ Harrison, Stimulator Jones, Ahwlee + 21:
-  - Sofie's SOS Tape (2016)
+  - _Sofie's SOS Tape (2016)_
   
 * Fat Jon:
-  - Hundred Eight Stars (2009)
-  - Tephlon Funk: The Free Tape (2018)
+  - _Hundred Eight Stars (2009)_
+  - _Tephlon Funk: The Free Tape (2018)_
 
 ### 2020.10
 * Nujabes:
-  - Metaphorical Music (2003)
-  - Modal Soul (2005)
-  - Spiritual State (2011)
+  - _Metaphorical Music (2003)_
+  - _Modal Soul (2005)_
+  - _Spiritual State (2011)_
 
 * Connan Mockasin:
-  - Forever Dolphin Love (2011)
-  - Caramel (2013)
-  - Jassbusters (2018)
+  - _Forever Dolphin Love (2011)_
+  - _Caramel (2013)_
+  - _Jassbusters (2018)_
   
 * Thundercat:
-  - Drunk (2017)
-  - It Is What It Is (2020)
+  - _Drunk (2017)_
+  - _It Is What It Is (2020)_
 
 * D'Angelo:
-  - Brown Sugar (1995)
+  - _Brown Sugar (1995)_
   
 * Mos Def:
-  - Black On Both Sides (1999)
+  - _Black On Both Sides (1999)_
   
 * Marvin Gaye:
-  - What's Going On (1971)
-  - I Want You (1976)
-  - Midnight Love (1982)
-  - Every Great Motown Hit Of Marvin Gaye (1983)
+  - _What's Going On (1971)
+  - _I Want You (1976)_
+  - _Midnight Love (1982)_
+  - _Every Great Motown Hit Of Marvin Gaye (1983)_
   
 * Erykah Badu:
-  - Baduizm (1997)
-  - New Amerykah Part One (4th World War) (2008)
+  - _Baduizm (1997)_
+  - _New Amerykah Part One (4th World War) (2008)_
   
 * Otis Redding:
-  - The Best Of Otis Redding (2020)
+  - _The Best Of Otis Redding (2020)_
   
 * Benny Sings:
-  - The Best of Benny Sings (2013)
-  - Rolled Up (2020)
+  - _The Best of Benny Sings (2013)_
+  - _Rolled Up (2020)_
   
 * Uyama Hiroto:
-  - freedom of the son (2014)
-  - freeform jazz (2017)
+  - _freedom of the son (2014)_
+  - _freeform jazz (2017)_
   
 * Madvillain, Madlib, MF DOOM:
-  - Madvillainy (2004)
+  - _Madvillainy (2004)_
   
 * J Dilla:
-  - Donuts (2006)
-  - Jay Love Japan (2016)
+  - _Donuts (2006)_
+  - _Jay Love Japan (2016)_
   
 * Souls of Mischief:
-  - 93 'til Infinity (1993)
+  - _93 'til Infinity (1993)_
   
 * Alice Coltrane:
-  - Lord of Lords (1972)
+  - _Lord of Lords (1972)_
   
 * Maxwell:
-  - Maxwell's Urban Hang Suite (1996)
+  - _Maxwell's Urban Hang Suite (1996)_
