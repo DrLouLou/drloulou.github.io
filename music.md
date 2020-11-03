@@ -6,9 +6,9 @@ permalink: /music/
 
 ### 2020.11
 * Shigeto:
-  - No Better Time Than Now (2013)
-  - A Piece of the Geto (2017)
-  - The New Monday (2017)
+  _No Better Time Than Now (2013)_
+  _A Piece of the Geto (2017)_
+  _The New Monday (2017)_
 
 * Karriem Riggins:
   - Alone Together (2012)
