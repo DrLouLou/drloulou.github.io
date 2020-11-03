@@ -22,6 +22,20 @@ permalink: /music/
 * Fat Jon:
   - _Hundred Eight Stars (2009)_
   - _Tephlon Funk: The Free Tape (2018)_
+  
+* Lonnie Liston Smith:
+  - _Astral Travelling (2014)_
+  - _Visions of a New World (2015)_
+  
+* Pharoah Sanders:
+  - _Thembi (1971)_
+  
+* Alice Coltrane:
+  - _Journey In Satchidananda (1971)_
+  - _Huntington Ashram Monastery (1969)_
+  
+* John Coltrane:
+  - _A Love Supreme (1965)_
 
 ### 2020.10
 * Nujabes:
