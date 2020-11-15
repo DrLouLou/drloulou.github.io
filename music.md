@@ -36,6 +36,17 @@ permalink: /music/
   
 * John Coltrane:
   - _A Love Supreme (1965)_
+  
+* Gold Panda:
+  - _Lucky Shiner (2010)_
+  
+* Nosaj Thing:
+  - _Views/Octopus EP (2006)_
+  - _Nightcrawler (2010)_
+  
+* Baths:
+  - _Cerulean (2010)_
+  - _Obsidian (2013)_
 
 ### 2020.10
 * Nujabes:
