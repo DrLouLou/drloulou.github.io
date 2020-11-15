@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Self Consciousness
+title: Self Consciousness
 ---
 
 Sometimes I find myself in situations, typically of the social sort, where I have a sharp and sudden feeling of self-awareness and or embarrassment about myself. Of course, it would be impossible for me to think about all aspects of myself at once - these thoughts commonly cluster around specific qualities like how smart you are, how athletic you are etc... These types of thoughts can be very consuming and compelling in the moment and can definitely reduce the quality of interactions with other people. This could be because you choose to say something which isn't quite as original (for the increased risk of having to defend yourself or respond to pushback), you choose not to say something at all, or, perhaps more importantly, you choose to avoid the whole interaction in the first place. Worrying is also a huge use of your attention. Time spent thinking excessively about yourself is time not listening to/thinking about what the other person is saying.
