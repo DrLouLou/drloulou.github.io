@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LISP Series Intro
+title: Lisp Series Intro
 ---
 
 A week or so ago, I came across Eric Steven Raymond's [guide](http://www.catb.org/~esr/faqs/hacker-howto.html) to hacking and hacker culture - a culture of working on difficult, not necessarily software related problems. In the section dedicated to basic hacking skills, Raymond says:
