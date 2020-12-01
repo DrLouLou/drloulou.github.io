@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Information and Types
+title: Lisp Part 2 - Information and Types
 ---
 
 ![3 programming language paradigms]({{ site.baseurl }}/images/3Paradigms.png "3 Paradigms")
