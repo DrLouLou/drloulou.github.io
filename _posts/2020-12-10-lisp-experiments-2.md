@@ -49,6 +49,29 @@ In Chapter 12 of the book _Practical Common Lisp_, it says "Lists are built by l
 So `car` and `cdr` are antagonistic. `car` returns ONLY the first value and `cdr` returns EVERYTHING BUT the first value. Using these two functions, we can return any value in a set of lists. Take a look at the following few lines:
 
 ```
+> (defparameter fighterlist (list 'saenchai 'manachai 'buakaw 'dekkers))
+FIGHTERLIST
+> (car fighterlist) 
+SAENCHAI
+> (cadr fighterlist)
+MANACHAI
+> (caddr fighterlist)
+BUAKAW
+> (cadddr fighterlist)
+DEKKERS
+> (cdr fighterlist) 
+(MANACHAI BUAKAW DEKKERS)
+> (cddr fighterlist) 
+(BUAKAW DEKKERS)
+> (cdddr fighterlist)
+(DEKKERS)
+```
+
+From these, we can nontice a few patterns. If you want a single, non-list value, your car/cdr chain should start with an "a", e.g. `cadr` or `caddr`. If you want a list, your chain should start with a "d", e.g. `cdar` etc.
+
+It gets slightly more complicated when nesting gets involved:
+
+```
 > (car (list (list 1 2) (list 3 4))) 
 (1 2)
 > (cdr (list (list 1 2) (list 3 4))) 
@@ -62,3 +85,16 @@ NIL
 > (cdar (list (list 1 2) (list 3 4)))
 (2)
 ```
+
+We can also use `first` and `rest` as synonyms for `car` and `cdr` when working with the `list` function. Like with `car`, `first` returns single values and like `cdr`, `rest` returns lists, even if the rest of the original list is only one value.
+
+```
+> (defparameter listexample (list 1 2 3 4 5))
+LISTEXAMPLE
+> (first listexample)
+1
+> (rest listexample)
+(2 3 4 5)
+```
+
+Next, we'll learn a few more quick functions and then move on.
