@@ -101,4 +101,6 @@ You can nest like this too:
 ((A B) (C D))
 ```
 
+Lists are really just a series of `cons` cells.
+
 Once you've got a handle on predicting what lists will look like from the code, you can play around with some more list functions which I will cover next post.
