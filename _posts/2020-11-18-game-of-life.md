@@ -3,7 +3,7 @@ layout: post
 title: Conway's Game of Life
 ---
 
-I came across Conway's [Game of Life]([https://playgameoflife.com/](https://playgameoflife.com/)) recently. It's a very simple but infinite simulation occurring on the surface of a shape called a trefoil knot. 
+I came across Conway's [Game of Life]([https://playgameoflife.com/](https://playgameoflife.com/)) recently. It's a very simple but infinite simulation. The gif shown is the Game of Life occurring on the surface of a shape called a trefoil knot. 
 ![Trefoil knot Conway's Game of Life](https://upload.wikimedia.org/wikipedia/commons/6/64/Trefoil_knot_conways_game_of_life.gif)
 This type of simulation is called a cellular automaton as the simulation consists of a grid of cells which each can be in any one of a finite number of states. In the case of Conway's Game of Life, each cell can either be populated or unpopulated, live or dead depending on the state of its 8 neighbouring cells. And there are rules dictating when each of these states occur. The rules are:
 
