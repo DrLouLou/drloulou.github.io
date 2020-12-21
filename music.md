@@ -4,7 +4,110 @@ title: Music
 permalink: /music/
 ---
 
+### 2020.12
+
+* Sly and the Family Stone:
+  - _A Whole New Thing (1967)_
+  - _Stand (1969)_
+  - _Fresh (1973)_
+
+* The Strokes:
+  - _Is This It (2001)_
+
+* Shigeto:
+  - _Versions (2019)_
+
+* Frank Sinatra:
+  - _Christmas Songs by Sinatra (1994)_
+
+* Yvette Young:
+  - _Acoustics 2 - EP (2017)_
+
+* Nito:
+  - _until the end (2020)_
+  
+* Louis Armstrong:
+  - _What a Wonderful World (1968)_
+
+* Ella Fitzgerald, Louis Armstrong:
+  - _Ella & Louis Christmas (2016)_
+  - _Christmas with Ella & Louis (2020)_
+  
+* King Gizzard & The Lizzard Wizard:
+  - _K.G. (2020)_
+  
+* Sleepy Fish:
+   - _Beneath Your Waves (2020)_
+   - _Everything Fades to Blue (2020)_
+   - _My Room Becomes The Sea (2019)_
+
 ### 2020.11
+
+* Curtis Mayfield:
+  - _Curtis (Expanded Edition) (1970)_
+
+* Shlohmo:
+  - _The End (2019)_
+
+* Commodores:
+  - _Commodores (1977)_
+  - _Soul Bag, Vol. 1 (2019)_
+
+* Aaliyah:
+  - _Extra Smooth (2015)_
+
+* The Velvet Underground:
+  - _The Velvet Underground (45th Anniversary) (1969)_
+
+* Wilson Pickett:
+  - _In the Midnight Hour (1965)_
+  - _The Exciting Wilson Pickett (1966)_
+
+* Frank Sinatra:
+  - _Sinatra & Company (1971)_
+
+* Jamiroquai:
+  - _A funk odyssey (2001)_
+
+* Wynton Marsalis:
+  - _Standards & Ballads (1983)_
+
+* Terry Callier:
+  - _Esssential, The Very Best Of... (1998)_
+  - _Timepiece (1998)_
+
+* Luciano Pavarotti:
+  - _Pavarotti Forever (1997)_
+
+* Infinite Bisous:
+  - _W/ Love (2017)_
+
+* Covet:
+  - _Currents (2015)_
+
+* Leon Fleisher:
+  - _Two Hands (2004)_
+
+* Johann Sebastian Bach, Yo-Yo Ma:
+  - _Bach: Cello Suites Nos. 1, 5 & 6 (1983)_
+
+* Jeff Buckley:
+  - _Grace (1994)_
+
+* Nina Simone:
+  - _I Put a Spell On You (1965)_
+  - _Pastel Blues (1965)_
+  - _Baltimore (1978)_
+  - _Little Girl Blue (2003 Remastered Version)_
+
+* Ray Charles: 
+  - _Ray Charles (aka: Hallelujah, I Love Her So) (1957)_
+  - _What'd I Say (1959)_
+  - _Modern Sounds in Country and Western Music, Vols 1&2 (2009)_
+
+* Leonard Cohen:
+  - _Various Positions (1984)_
+
 * Shigeto:
   - _No Better Time Than Now (2013)_
   - _A Piece of the Geto (2017)_
