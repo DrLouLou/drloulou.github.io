@@ -1,0 +1,9 @@
+---
+layout: post
+title: Growth and Happiness
+---
+
+Is it possible to reliably increase happiness through improving people's economic situation - or even in general, for that matter? A study from [2008](https://www.researchgate.net/publication/228895932_Development_Freedom_and_Rising_Happiness_A_Global_Perspective_1981-2007) suggested so. They had a nice graph that showed how the proportion of people from 1981 to 2007 who described themselves as "very happy" increased in 45 out of 52 countries.
+![happiness from 1981-2007 in 52 countries]({{ site.baseurl }}/images/happinessgraph.png "Happiness Graph")
+But how attributable is this to growth? The researchers suggest the relationship is strong, but, looking at the graph, there appear to be significant exceptions to this rule. China has experienced considerable growth over those years but is one of the few countries to have reported a decline in happiness. It's a similar story with India, although not as bad. The researchers also claim that freedom and democracy are associated with happiness also. But what is the exact relationship between these variables? It may be that growth has a tendency to increase freedoms and stability and these are what cause the increases in happiness. A similar phenomenon happened across genders, where women saw a [decline in happiness](https://law.yale.edu/sites/default/files/documents/pdf/Intellectual_Life/Stevenson_ParadoxDecliningFemaleHappiness_Dec08.pdf) in the United States since the '70s despite many measures having been improved in terms of freedom, opportunity, and economic situation. But African American happiness has seemed to lastingly [increase](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6260931/) over time consistent with reduction of various racial disparities. So, it seems as if it is possible to have enduring changes in happiness but these changes are not linked with a better economic situation necessarily. 
+
