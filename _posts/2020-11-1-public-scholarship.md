@@ -17,6 +17,6 @@ Criticism can also be extended to entire fields of research which claim to expla
 
 Avoiding the pitfalls of these disciplines may not be enough for the benefits of studying  sex differences to accrue however. What is needed in addition to this are science educators who accurately convey research to the general public. Currently, misinformation about these topics [pervade common platforms](https://royalsocietypublishing.org/doi/10.1098/rstb.2015.0119) on the internet and perpetuate false claims. The antidote to clickbait news sites and poor science communication is, of course, good science communication, which requires that those who have expertise in the field write books, record podcasts, and film lectures to educate the public further and be transparent about the current state of the field.
 
-[For commeents](https://docs.google.com/document/d/13-pglhpYoRCOZCt9eWTQKvJGOk8r9lTVdS2TnOpBqcM/edit?usp=sharing)
+[For comments](https://docs.google.com/document/d/13-pglhpYoRCOZCt9eWTQKvJGOk8r9lTVdS2TnOpBqcM/edit?usp=sharing)
 
 
